@@ -34,8 +34,13 @@ let Contributors: Contributor[] = [
         FirstCommit: true
     },
     {
+<<<<<<< HEAD
         name: "Nhat Minh Thu Le",
         country: "Vietnam",
+=======
+        name: "Caio Bahlis",
+        country: "Brazil",
+>>>>>>> a64fa7f8d66eb405f7bd7d701c855f468ab6d5b4
         FirstCommit: true
     }
 ]
