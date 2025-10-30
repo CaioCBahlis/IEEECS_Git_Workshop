@@ -34,8 +34,8 @@ let Contributors: Contributor[] = [
         FirstCommit: true
     },
     {
-        name: "Your Name Here",
-        country: "Your Country Here",
+        name: "Andres",
+        country: "America",
         FirstCommit: true
     }
 ]
